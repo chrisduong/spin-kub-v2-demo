@@ -4,7 +4,7 @@ metadata:
   name: spinnaker-demo-config
   namespace: default
 data:
-  NEW_FEATURE: "try10"
+  NEW_FEATURE: "try11"
 
 ---
 apiVersion: apps/v1beta2
